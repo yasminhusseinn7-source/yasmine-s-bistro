@@ -16,7 +16,7 @@ This project is a static website designed to showcase a restaurant's menu, atmos
 - **Modern UI:** Focused on a professional "Bistro" aesthetic.
 
 ## 📸 Preview
-![Project Screenshot]()
+![Project Screenshot](yasminhusseinn7-source.github.io_yasmine-s-bistro_.png)
 
 ---
 *Developed by Yasmine as part of her Frontend journey.*
